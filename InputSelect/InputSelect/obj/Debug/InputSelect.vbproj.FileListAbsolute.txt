@@ -1,0 +1,9 @@
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\bin\Debug\InputSelect.exe.config
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\bin\Debug\InputSelect.exe
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\bin\Debug\InputSelect.pdb
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\bin\Debug\InputSelect.xml
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\obj\Debug\InputSelect.Resources.resources
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\obj\Debug\InputSelect.vbproj.GenerateResource.Cache
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\obj\Debug\InputSelect.exe
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\obj\Debug\InputSelect.xml
+\\truro.local\callywith\students\nc300011\documents\visual studio 2017\Projects\InputSelect\InputSelect\obj\Debug\InputSelect.pdb
